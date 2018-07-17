@@ -2,7 +2,7 @@
 
 const EventEmitter = require('events').EventEmitter;
 const logUpdate = require('log-update');
-const Table = require('cli-table2');
+const Table = require('cli-table3');
 const keypress = require('keypress');
 const os = require('os');
 const colors = require('colors');
